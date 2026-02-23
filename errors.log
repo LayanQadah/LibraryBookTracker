@@ -1,0 +1,6 @@
+[2026-02-23T15:26:25.685527100] INVALID: System | InsufficientArgumentsException: Missing arguments.
+[2026-02-23T15:26:42.487350] INVALID: Lion | InvalidFileNameException: File must be .txt
+[2026-02-23T15:28:32.805371400] INVALID: System | InsufficientArgumentsException: Missing arguments.
+[2026-02-23T15:28:43.459871900] INVALID: Lion | InvalidFileNameException: File must be .txt
+[2026-02-23T15:48:19.729140] INVALID: System | InsufficientArgumentsException: Missing arguments.
+[2026-02-23T15:49:04.008626900] INVALID: Lion | InvalidFileNameException: File must be .txt
